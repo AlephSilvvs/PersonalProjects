@@ -45,6 +45,4 @@ else:
 
 print('\nFIM')
 
-# O input() no final só é necessário se você estiver rodando em um terminal que fecha imediatamente.
-# Para scripts Python, geralmente não é necessário.
 # input()
