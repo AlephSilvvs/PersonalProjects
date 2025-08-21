@@ -2,7 +2,7 @@
 nomes = []
 
 while True:
-    nome = input ('Digite um nome (ou "sair" para finalizar')
+    nome = input ('Digite um nome (ou "sair" para finalizar): ')
     if nome.lower() == 'sair':
         break
     nomes.append(nome)
